@@ -121,21 +121,10 @@ Moving forward, these methods can be expanded to influence **real-world policy d
 ---
 
 ## **How to Use This Project**
-### **1️⃣ Clone the Repository**
+### ** Clone the Repository**
 ```bash
 git clone https://github.com/NaitikJw/gender-pay-gap-analysis.git
 cd gender-pay-gap-analysis
 ```
 
-### **2️⃣ Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **3️⃣ Run the Jupyter Notebook**
-```bash
-jupyter notebook
-```
-
-🚀 **Start exploring and contribute towards ethical AI in salary analysis!**
 
