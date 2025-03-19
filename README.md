@@ -1,0 +1,1 @@
+# Naitik_D013_EthicsProject
